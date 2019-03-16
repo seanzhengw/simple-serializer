@@ -1,0 +1,18 @@
+{
+    "name": "simple-serializer",
+    "description": "serialize everything into char array in one function call",
+    "keywords": "byte, buffer, serialize",
+    "authors": {
+        "name": "Sean Zheng",
+        "email": "seanzhengw@gmail.com",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seanzhengw/simple-serializer.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "*"
+}
